@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv(override = True)
 
 
-client = OpenAI(api_key = "GoA3Fg6Z.QukwIrixtYoXvXxZGErpcrptYLxSRFRq", 
+client = OpenAI(api_key = "", 
                 base_url = "https://inference.baseten.co/v1")
 
 
